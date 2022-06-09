@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarnerTransitFederal_Console", "WarnerTransitFederal_Console\WarnerTransitFederal_Console.csproj", "{34EF3270-A53C-4AE3-87E9-88C2E10F9915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarnerTransitFederal_Repo", "WarnerTransitFederal_Repo\WarnerTransitFederal_Repo.csproj", "{0799125E-5478-4219-B9A8-DE8D16E50F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarnerTransitFederal_Testing", "WarnerTransitFederal_Testing\WarnerTransitFederal_Testing.csproj", "{B01821CB-E22C-4941-B593-AF930F6B5DE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34EF3270-A53C-4AE3-87E9-88C2E10F9915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EF3270-A53C-4AE3-87E9-88C2E10F9915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EF3270-A53C-4AE3-87E9-88C2E10F9915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EF3270-A53C-4AE3-87E9-88C2E10F9915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0799125E-5478-4219-B9A8-DE8D16E50F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0799125E-5478-4219-B9A8-DE8D16E50F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0799125E-5478-4219-B9A8-DE8D16E50F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0799125E-5478-4219-B9A8-DE8D16E50F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B01821CB-E22C-4941-B593-AF930F6B5DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01821CB-E22C-4941-B593-AF930F6B5DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01821CB-E22C-4941-B593-AF930F6B5DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01821CB-E22C-4941-B593-AF930F6B5DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
